@@ -1,90 +1,89 @@
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Marketing%20Funnel%20%26%20Lead%20Conversion%20Analysis&fontSize=45&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Data%20Analytics%20Internship%20Project%20%7C%20Python%20%7C%20EDA%20%7C%20Business%20Insights&descAlignY=58&descSize=18"/>
-</p>
-
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Marketing+Analytics+Project;Lead+Conversion+Analysis;Business+Insights+using+Python;Data+Analytics+Internship+Project"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-Data%20Visualization-4C72B0?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Internship-Data%20Analytics-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Project-Marketing%20Analytics-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Dataset-Bank%20Marketing-informational?style=for-the-badge"/>
-
-</div>
-
----
 
 # 📊 Marketing Funnel & Lead Conversion Analysis
 
-## 📌 Internship Project
+### Exploratory Data Analysis on Bank Marketing Campaign Data
 
-This project was completed as part of a **Data Analytics Internship** to analyze the effectiveness of a bank's direct marketing campaigns using the **Bank Marketing Dataset**.
+![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
-The primary objective was to understand customer conversion behavior, evaluate marketing campaign performance, identify factors influencing customer subscriptions, and provide actionable business recommendations through **Exploratory Data Analysis (EDA)** and **data visualization**.
+**🔗 Repository:** [github.com/priyam-10/FUTURE_DS_03](https://github.com/priyam-10/FUTURE_DS_03)
+
+**Internship Project — Future Intern (Data Science & Analytics)**
+
+
+</div>
+
+<br>
+
 
 ---
 
-# 🎯 Project Objectives
+## 📌 Overview
 
-- Analyze customer conversion performance.
-- Calculate the overall conversion rate.
-- Evaluate the effectiveness of different contact methods.
-- Identify the best-performing campaign months.
-- Analyze customer segments based on demographics.
-- Understand the impact of previous marketing campaigns.
-- Generate business insights to improve future marketing strategies.
+This project was completed as part of a **Data Science & Analytics Internship at Future Intern**, focused on analyzing the effectiveness of a bank's direct marketing campaigns using the **Bank Marketing Dataset**.
+
+The goal was to understand customer conversion behavior, evaluate campaign performance, identify the factors that most influence customer subscriptions, and translate the findings into **actionable business recommendations** through **Exploratory Data Analysis (EDA)** and **data visualization**.
 
 ---
 
-# 📂 Dataset Overview
+## 🎯 Project Objectives
+
+- Analyze overall customer conversion performance
+- Calculate the overall conversion rate
+- Evaluate the effectiveness of different contact methods
+- Identify the best-performing campaign months
+- Analyze customer segments based on demographics
+- Understand the impact of previous marketing campaigns
+- Generate business insights to improve future marketing strategies
+
+---
+
+## 📂 Dataset Overview
 
 The project uses the **Bank Marketing Dataset** from the **UCI Machine Learning Repository**.
 
-### Dataset Information
+<div align="center">
 
 | Metric | Value |
-|---------|------:|
-| Records | **45,211** |
-| Features | **17** |
-| Target Variable | **y (Subscription)** |
-| Dataset Type | Marketing Campaign |
+|:--|--:|
+| 📄 Records | **45,211** |
+| 📊 Features | **17** |
+| 🎯 Target Variable | **y (Subscription)** |
+| 🏷️ Dataset Type | Marketing Campaign |
 
-### Dataset Attributes
+</div>
 
-- Customer Demographics
-- Financial Information
-- Contact Method
-- Campaign Details
-- Previous Campaign Outcome
-- Subscription Status
+**Dataset attributes include:**
+
+| Category | Details |
+|---|---|
+| 👤 Customer Demographics | Age, job, marital status, education |
+| 💰 Financial Information | Account balance, housing loan, personal loan |
+| ☎️ Contact Method | Cellular, telephone, unknown |
+| 📅 Campaign Details | Contact day, month, duration, number of contacts |
+| 🔄 Previous Campaign Outcome | Success, failure, other, unknown |
+| ✅ Subscription Status | Yes / No (target variable) |
 
 ---
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 | Technology | Purpose |
-|------------|---------|
-| Python | Data Analysis |
-| Pandas | Data Cleaning & Manipulation |
-| NumPy | Numerical Computing |
-| Matplotlib | Data Visualization |
-| Seaborn | Statistical Visualization |
-| Jupyter Notebook | Development Environment |
-| Git & GitHub | Version Control |
+|---|---|
+| 🐍 **Python** | Core data analysis |
+| 🐼 **Pandas** | Data cleaning & manipulation |
+| 🔢 **NumPy** | Numerical computing |
+| 📈 **Matplotlib** | Data visualization |
+| 🎨 **Seaborn** | Statistical visualization |
+| 📓 **Jupyter Notebook** | Development environment |
+| 🔧 **Git & GitHub** | Version control |
 
 ---
 
-# 📈 Project Workflow
+## 📈 Project Workflow
 
 ```text
               Bank Marketing Dataset
@@ -107,7 +106,7 @@ The project uses the **Bank Marketing Dataset** from the **UCI Machine Learning 
 
 ---
 
-# 🎯 Business Questions
+## ❓ Business Questions
 
 This project aims to answer the following business questions:
 
@@ -123,126 +122,119 @@ This project aims to answer the following business questions:
 
 ---
 
-# 📊 Analysis Performed
+## 📊 Analysis Performed
 
-This project performs a comprehensive marketing funnel and customer conversion analysis using Python. The analysis is divided into multiple business-focused sections to understand customer behavior and campaign performance.
+This project performs a comprehensive marketing funnel and customer conversion analysis using Python, divided into focused sections:
 
-### 📈 Overall Conversion Analysis
+<details open>
+<summary><b>📈 Overall Conversion Analysis</b></summary>
 
-- Overall Customer Conversion Rate
-- Customer Subscription Distribution
-- Marketing Campaign Success Evaluation
+- Overall customer conversion rate
+- Customer subscription distribution
+- Marketing campaign success evaluation
+</details>
 
-### 📞 Contact Method Analysis
+<details open>
+<summary><b>📞 Contact Method Analysis</b></summary>
 
-- Cellular vs Telephone Performance
-- Contact Method Conversion Comparison
-- Best Communication Channel Identification
+- Cellular vs. telephone performance
+- Contact method conversion comparison
+- Best communication channel identification
+</details>
 
-### 📅 Campaign Performance Analysis
+<details open>
+<summary><b>📅 Campaign Performance Analysis</b></summary>
 
-- Monthly Conversion Rate Analysis
-- Campaign Timing Evaluation
-- High Performing Campaign Periods
+- Monthly conversion rate analysis
+- Campaign timing evaluation
+- High-performing campaign periods
+</details>
 
-### 👨‍💼 Customer Segmentation Analysis
+<details open>
+<summary><b>👨‍💼 Customer Segmentation Analysis</b></summary>
 
-- Job-wise Conversion Analysis
-- Education-wise Conversion Analysis
-- Marital Status Analysis
-- Age Group Analysis
-- Account Balance Analysis
+- Job-wise conversion analysis
+- Education-wise conversion analysis
+- Marital status analysis
+- Age group analysis
+- Account balance analysis
+</details>
 
-### 📢 Previous Campaign Analysis
+<details open>
+<summary><b>📢 Previous Campaign Analysis</b></summary>
 
-- Previous Campaign Outcome Analysis
-- Customer Re-engagement Evaluation
-- Historical Campaign Performance
-
----
-
-# 📊 Visualizations Included
-
-The project contains multiple visualizations to support business decision-making.
-
-- Customer Subscription Distribution
-- Contact Method Conversion Rate
-- Monthly Conversion Rate
-- Job Category Analysis
-- Education Level Analysis
-- Marital Status Analysis
-- Age Group Analysis
-- Account Balance Analysis
-- Previous Campaign Outcome Analysis
+- Previous campaign outcome analysis
+- Customer re-engagement evaluation
+- Historical campaign performance
+</details>
 
 ---
 
-# 🔍 Key Findings
+## 📊 Visualizations Included
+
+| # | Visualization |
+|--:|---|
+| 1 | Customer Subscription Distribution |
+| 2 | Contact Method Conversion Rate |
+| 3 | Monthly Conversion Rate |
+| 4 | Job Category Analysis |
+| 5 | Education Level Analysis |
+| 6 | Marital Status Analysis |
+| 7 | Age Group Analysis |
+| 8 | Account Balance Analysis |
+| 9 | Previous Campaign Outcome Analysis |
+
+---
+
+## 🔍 Key Findings
 
 ### 📈 Customer Conversion
-
 - The overall customer conversion rate indicates that only a small proportion of contacted customers subscribed to the term deposit.
 - Significant opportunities exist to improve campaign effectiveness.
 
 ### 📞 Contact Method
-
 - Customer conversion differs across communication channels.
 - Certain contact methods consistently produce higher conversion rates.
 
 ### 📅 Campaign Timing
-
 - Marketing performance varies across different months.
 - Some campaign periods generate noticeably better customer responses.
 
 ### 👥 Customer Segmentation
-
 - Customer demographics strongly influence subscription behavior.
 - Job category, education level, marital status, age, and account balance all contribute to conversion performance.
 
 ### 🔄 Previous Campaign Outcome
-
 - Customers with positive previous campaign outcomes are more likely to subscribe again.
 - Historical campaign information can improve future targeting strategies.
 
 ---
 
-# 💡 Business Recommendations
+## 💡 Business Recommendations
 
-### 1️⃣ Prioritize High-Converting Contact Methods
-
-Allocate more marketing resources to communication channels with higher conversion rates.
-
-### 2️⃣ Optimize Campaign Timing
-
-Schedule marketing campaigns during months with historically stronger customer responses.
-
-### 3️⃣ Improve Customer Targeting
-
-Focus marketing efforts on customer segments that consistently demonstrate higher conversion rates.
-
-### 4️⃣ Re-engage Existing Customers
-
-Prioritize customers who responded positively to previous marketing campaigns.
-
-### 5️⃣ Adopt Data-Driven Marketing
-
-Use customer analytics and historical campaign performance to continuously optimize marketing strategies.
+| # | Recommendation | Description |
+|--:|---|---|
+| 1️⃣ | **Prioritize High-Converting Contact Methods** | Allocate more marketing resources to communication channels with higher conversion rates. |
+| 2️⃣ | **Optimize Campaign Timing** | Schedule marketing campaigns during months with historically stronger customer responses. |
+| 3️⃣ | **Improve Customer Targeting** | Focus marketing efforts on customer segments that consistently demonstrate higher conversion rates. |
+| 4️⃣ | **Re-engage Existing Customers** | Prioritize customers who responded positively to previous marketing campaigns. |
+| 5️⃣ | **Adopt Data-Driven Marketing** | Use customer analytics and historical campaign performance to continuously optimize marketing strategies. |
 
 ---
 
-# 📊 Business Impact
+## 📊 Business Impact
 
 The insights generated from this analysis can help businesses:
 
-- Improve customer conversion rates.
-- Optimize marketing campaign performance.
-- Reduce unnecessary marketing costs.
-- Improve customer targeting.
-- Support data-driven business decision-making.
+- ✅ Improve customer conversion rates
+- ✅ Optimize marketing campaign performance
+- ✅ Reduce unnecessary marketing costs
+- ✅ Improve customer targeting
+- ✅ Support data-driven business decision-making
 
 ---
 
-# 🏆 Project Deliverables
+## 🏆 Project Deliverables
 
 - ✅ Data Cleaning & Preparation
 - ✅ Exploratory Data Analysis (EDA)
@@ -254,10 +246,10 @@ The insights generated from this analysis can help businesses:
 
 ---
 
-# 📁 Project Structure
+## 📁 Project Structure
 
 ```text
-Marketing-Funnel-Lead-Conversion-Analysis/
+FUTURE_DS_03/
 │
 ├── data/
 │   └── bank-full.csv
@@ -284,28 +276,24 @@ Marketing-Funnel-Lead-Conversion-Analysis/
 
 ---
 
-# ⚙️ Installation & Usage
+## ⚙️ Installation & Usage
 
-## 1️⃣ Clone the Repository
-
+**1️⃣ Clone the repository**
 ```bash
-git clone https://github.com/your-username/Marketing-Funnel-Lead-Conversion-Analysis.git
+git clone https://github.com/priyam-10/FUTURE_DS_03.git
 ```
 
-## 2️⃣ Navigate to the Project Folder
-
+**2️⃣ Navigate to the project folder**
 ```bash
-cd Marketing-Funnel-Lead-Conversion-Analysis
+cd FUTURE_DS_03
 ```
 
-## 3️⃣ Install Required Libraries
-
+**3️⃣ Install required libraries**
 ```bash
 pip install -r requirements.txt
 ```
 
-## 4️⃣ Launch Jupyter Notebook
-
+**4️⃣ Launch Jupyter Notebook**
 ```bash
 jupyter notebook
 ```
@@ -314,9 +302,7 @@ Open the notebook and run all cells to reproduce the complete analysis.
 
 ---
 
-# 🚀 Future Enhancements
-
-The project can be extended further by implementing:
+## 🚀 Future Enhancements
 
 - 📊 Interactive Power BI Dashboard
 - 🤖 Customer Conversion Prediction using Machine Learning
@@ -328,11 +314,11 @@ The project can be extended further by implementing:
 
 ---
 
-# 🎓 Internship Information
+## 🎓 Internship Information
 
-### **Data Analytics Internship Project**
+**Data Science & Analytics Internship — Future Intern**
 
-This project was completed as part of a **Data Analytics Internship** to strengthen practical skills in:
+This project was completed as part of a Data Science & Analytics Internship at **Future Intern**, to strengthen practical skills in:
 
 - Python Programming
 - Exploratory Data Analysis (EDA)
@@ -346,50 +332,31 @@ The project demonstrates the ability to transform raw business data into actiona
 
 ---
 
-# 📄 License
+## 📄 License
 
-This project is licensed under the **MIT License**.
-
-You are free to use, modify, and distribute this project in accordance with the terms of the MIT License.
-
-For more information, see the **LICENSE** file included in this repository.
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute this project in accordance with the terms of the MIT License. See the [LICENSE](./LICENSE) file for more details.
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
+
+<div align="center">
 
 **Priyam Singh**
+*Data Science & Analytics Intern @ Future Intern*
 
-**Data Analytics Intern**
+[![Email](https://img.shields.io/badge/Email-priyamsingh0017%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:priyamsingh0017@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-priyamsingh10-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyamsingh10/)
+[![GitHub](https://img.shields.io/badge/GitHub-priyam--10-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/priyam-10)
 
-📧 Email: priyamsingh0017@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/priyamsingh10/
-
-💻 GitHub: https://github.com/priyam-10
+</div>
 
 ---
 
 <div align="center">
 
-## ⭐ If you found this project useful, consider giving it a Star!
+### ⭐ If you found this project useful, consider giving it a star!
 
-### Built with ❤️ using Python, Pandas, NumPy, Matplotlib & Seaborn
-
-<br>
-
-<img src="https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Data%20Analytics-Marketing%20Insights-blueviolet?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-MIT-success?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00BFFF&center=true&width=800&lines=Turning+Marketing+Data+into+Business+Insights.;Learning+Data+Analytics+through+Real+Projects.;Building+Data-Driven+Solutions+with+Python."/>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=150&section=footer"/>
+**Built with ❤️ using Python, Pandas, NumPy, Matplotlib & Seaborn**
 
 </div>
